@@ -2,5 +2,4 @@ streamlit
 pandas
 numpy
 polygon-api-client
-yfinance
-websockets
+plotly
